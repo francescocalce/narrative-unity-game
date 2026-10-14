@@ -18,4 +18,4 @@ Progettato e sviluppato interamente in autonomia, dall'architettura del gioco ai
 
 ## Autore
 
-**Francesco Calce** — [whago.it](https://whago.it) · [LinkedIn](https://www.linkedin.com/in/francesco-calce-a75a83229)
+**Francesco Calce** —  [LinkedIn](https://www.linkedin.com/in/francesco-calce-a75a83229)
