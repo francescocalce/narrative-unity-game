@@ -1,0 +1,42 @@
+# Cartelle generate da Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
+/[Uu]serSettings/
+/Nuova cartella/
+
+# File specifici dell'ambiente locale
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+Assets/Chiesa_Santa_Caterina_FBX_3.fbx
+Assets/Chiesa_Santa_Caterina_FBX_3.fbx.meta
+Assets/Chiesa_Santa_Caterina_FBX_3.jpg.jpeg
+Assets/Chiesa_Santa_Caterina_FBX_3.jpg.jpeg.meta
+Assets/Materials/Chiesa_Santa_Caterina_FBX_3.jpg.mat
+Assets/Materials/Chiesa_Santa_Caterina_FBX_3.jpg.mat.meta
+
+# File autogenerati
+sysinfo.txt
+*.apk
+*.unitypackage
+*.app
+
+# Crashlytics
+crashlytics-build.properties
